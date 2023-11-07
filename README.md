@@ -6,5 +6,6 @@ Objective: To create Database and required tables, perform operations using SQL 
 Tools: MYSQL
 
 Outcome: Extracted meaningful data such as gender who are travelling the most, the price of variation along with the distance, etc.
+
 Key skills: Data Extraction, Data Query, Data Manipulation
 
